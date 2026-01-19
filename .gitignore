@@ -1,0 +1,131 @@
+
+
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git-blame-ignore-revs
+.pytest_cache/
+.hypothesis/
+.eggs/
+*.egg-info/
+.venv.bak/
+.python-version
+.mypy_cache/
+.pyre/
+.pytype/
+cython_debug/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage/
+htmlcov/
+.cov/
+.mypy_cache/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Frontend (Next.js)
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+.next/
+node_modules/
+.env.local
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/todo_app.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Build artifacts
+dist/
+build/
+out/
+target/
+tmp/
+temp/
+
+# Vercel
+.vercel/
+
+# TypeScript
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# General
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+coverage/
+.nyc_output/
+
+# Claude Code
+.claude/
